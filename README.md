@@ -1,2 +1,2 @@
 # Brain_tumor_detection
-The following repository is created for working on a machine learning model wherein the CNN and the capsule network models are to be drafted. The ML models are designed in order to help and detect brain tumors at an early stage using dataset provided by kaggle. 
+The following repository is created in regards to design a Machine Learning model which will classify Brain MRI Images in ‘Brain tumour and Normal’. CNN and capsule network techniques are used along with dataset provided by KAGGLE. The contributors for the repo are Abhay, Sachin, Rushikesh, Goutam and Suraj students of WCE undergoing this project.
